@@ -1,4 +1,4 @@
-# **Alvaro Romano**
+# **Anakin Romano**
 > Página web - Repositorio oficial
 
 >[!NOTE]
@@ -7,7 +7,7 @@
 > [!TIP]
 > Esta documentación es siempre apta y refleja lo que viene siendo la última versión del proyecto.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fadee713-2ce4-454f-ace0-24925b1c9bd2/deploy-status)](https://app.netlify.com/sites/alvaroromano/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fadee713-2ce4-454f-ace0-24925b1c9bd2/deploy-status)](https://app.netlify.com/sites/anakinromano/deploys)
 
 Este repositorio contiene mi página web personal que actúa como portafolio en línea para mostrar mis proyectos, habilidades, etc.
 
